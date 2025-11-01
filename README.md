@@ -124,10 +124,10 @@ Located in `db.json` → 15 customers with IDs, addresses, phones, and emails.
 
 ## 🕒 Time Spent
 **≈ 7 hours total**
-- Planning and config schema → 1 h  
-- Component creation → 3 h  
-- Testing and debugging → 2 h  
-- Documentation and README → 1 h  
+- Planning and config schema → 2.5 h  
+- Component creation → 13 h  
+- Testing and debugging → 4 h  
+- Documentation and README → 2 h  
 
 ---
 
@@ -135,9 +135,9 @@ Located in `db.json` → 15 customers with IDs, addresses, phones, and emails.
 
 | Screen | Image |
 |---------|--------|
-| Search Form – Empty State | ![Empty Search Form](./screenshots/89a448be-6853-47cc-b028-d4e7cbdfff26.png) |
-| Search Form – Before Search | ![Before Search](./screenshots/80740bac-b813-485e-a8d9-53b54a070525.png) |
-| Search Results – After Search | ![Results](./screenshots/3876293e-e23d-45a8-a8cf-489cd0c7a93c.png) |
+| Search Form – Empty State | ![Empty Search Form](./screenshots/Empty%20Search%20Form.png) |
+| Search Form – Before Search | ![Before Search](./screenshots/Before%20Search.png) |
+| Search Results – After Search | ![Results](./screenshots/Results.png) |
 
 ---
 
