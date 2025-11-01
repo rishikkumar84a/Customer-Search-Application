@@ -123,11 +123,11 @@ Located in `db.json` → 15 customers with IDs, addresses, phones, and emails.
 ---
 
 ## 🕒 Time Spent
-**≈ 21.5 hours total**
-- Planning and config schema → 2.5 h  
-- Component creation → 13 h  
-- Testing and debugging → 4 h  
-- Documentation and README → 2 h  
+**≈ 13.5 hours total**
+- Planning and config schema → 1 h  
+- Component creation → 9 h  
+- Testing and debugging → 2 h  
+- Documentation and README → 1.5 h  
 
 ---
 
