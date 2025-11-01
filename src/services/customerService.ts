@@ -1,6 +1,6 @@
 import { Customer, SearchCriteria } from '@/types';
 
-const API_BASE_URL = 'http://localhost:3002';
+const API_BASE_URL = 'http://localhost:3001';
 
 /**
  * Search for customers based on criteria
