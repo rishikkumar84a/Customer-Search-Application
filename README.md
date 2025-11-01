@@ -123,7 +123,7 @@ Located in `db.json` → 15 customers with IDs, addresses, phones, and emails.
 ---
 
 ## 🕒 Time Spent
-**≈ 7 hours total**
+**≈ 21.5 hours total**
 - Planning and config schema → 2.5 h  
 - Component creation → 13 h  
 - Testing and debugging → 4 h  
